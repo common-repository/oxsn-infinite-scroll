@@ -1,0 +1,16 @@
+.oxsn_infinite_scroll_wrap {
+	float: left;
+	width: 100%;
+	position: relative;
+}
+
+.oxsn_infinite_scroll_wrap .pagination, .oxsn_infinite_scroll_wrap #infscr-loading {
+	float: left;
+	line-height: 32px;
+	width: 100%;
+	text-align: center;
+}
+
+.oxsn_infinite_scroll_wrap .pagination {
+	visibility: hidden;
+}
